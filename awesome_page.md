@@ -6,4 +6,4 @@
 
  *emphasis*
 
-[link](gps1.JPG)
+![Inline screenshot](gps1.JPG)
