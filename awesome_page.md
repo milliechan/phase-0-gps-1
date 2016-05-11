@@ -4,6 +4,6 @@
 
 [link](www.espn.com)
 
- *emphasises*
+*emphasis*
 
 ![Inline screenshot](gps1.JPG)
